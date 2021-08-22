@@ -15,7 +15,7 @@ Just download the following files and place them in the YOLO folder:
 
 
 ## Description and Results
-- Utilized YOLOv3 fordetecting persons fromreal-time CCTV feed, a Dual Shot Face Detector for detecting faces composed of layers from the VGG16 network and a ResNet model for performing Face Mask classification.
+- Utilized YOLOv3 for detecting persons fromreal-time CCTV feed, a Dual Shot Face Detector for detecting faces composed of layers from the VGG16 network and a ResNet model for performing Face Mask classification.
 - The Proposed Framework achieved an accuracy of 84.3% with an average of 44 fps on NVIDIA GTX 1660 Ti.
 - The goal of this project was to come up with an accurate prediction pipeline for real – time social distance and facemask violation during these tough times of pandemic.
 
