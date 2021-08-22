@@ -1,0 +1,9 @@
+numpy
+matplotlib
+sklearn
+PIL
+cv2
+keras 
+face_detection
+tqdm
+imutils
